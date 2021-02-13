@@ -1,5 +1,5 @@
 # MexicoSSEcycle
-Discription: data products of Mexico long-term slow slip cycles simulation
+Description: data products of Mexico long-term slow slip cycles simulation
 
 ## Scripts
 Scripts to create parameter files used in the simulation.
