@@ -13,3 +13,10 @@ We build the discretized fault surface based on the 3D plate geometry from Perez
 The mesh file contains 90496 triangular elements with a length of ~1.5 km. 
 
 ![A nice image.](https://github.com/daisy20170101/MexicoSSEcycle/blob/main/Data/Mesh/GuerreroSlab.png){Figure. Slab geometry in Cartesian coordinates.}
+
+### Spatio-temporal distribution of slip rate
+
+### Surface deformation
+
+### Moment-duration scaling
+
