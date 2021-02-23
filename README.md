@@ -1,22 +1,36 @@
 # MexicoSSEcycle
 Description: data products of Mexico long-term slow slip cycles simulation
 
-## Scripts
-Scripts to create parameter files used in the simulation.
-
 ## Data
+
 Data products of Cascadia megathrust rupture model.
 
 ### Mesh
 
-We build the discretized fault surface based on the 3D plate geometry from Perez et al.[2018]. The fault is 350 km along the strike and extends from trench to 60 km. 
-The mesh file contains 90496 triangular elements with a length of ~1.5 km. 
+We build the discretized fault surface based on the 3D plate geometry from Perez et al.[2018]. The fault is ~400 km along the strike and extends from trench to 60 km. 
+The mesh file contains 90,496 triangular elements with a length of ~1.5 km. 
 
-![A nice image.](https://github.com/daisy20170101/MexicoSSEcycle/blob/main/Data/Mesh/GuerreroSlab.png){Figure. Slab geometry in Cartesian coordinates.}
+### ParameterSetup
+
+1) Distribution of Non-dimension parameter a-b and effective normal stress
+2) Length of velocity-weakening in SSE source region (W)
 
 ### Spatio-temporal distribution of slip rate
 
-### Surface deformation
+Slip rate on the fault as shown in Figure 3a. 
 
-### Moment-duration scaling
+### Slip distrinbution
+
+1) Cumulative slip of four SSEs as shown in Figure 4.
+2) Slip budget on the fault as shown in Figure 3d.
+
+
+### GPS (Surface deformation)
+
+1) Observations from Radiguet et al. [2012] and Radiguet et al. [2016]
+2) Synthetic GPS vectors as shown in Figure 4.
+
+### Source properties (Moment-duration scaling relation)
+
+Duration and seismic moment of modeled SSEs as shown in Figure 3e.  
 
