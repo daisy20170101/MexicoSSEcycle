@@ -3,7 +3,6 @@ Description: data products of Mexico long-term slow slip cycles simulation
 
 ## Data
 
-Data products of Cascadia megathrust rupture model.
 
 #### Mesh
 
