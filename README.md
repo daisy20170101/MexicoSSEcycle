@@ -1,5 +1,6 @@
 # MexicoSSEcycle
-Description: data products of Mexico long-term slow slip cycles simulation
+
+Description: data products for '3D modeling of long-term slow slip events along the flat slab segment in the Guerrero Seismic Gap, Mexico' by A. Perez-Silva}, D. Li, A.-A. Gabriel and Y. Kaneko
 
 ## Data
 
