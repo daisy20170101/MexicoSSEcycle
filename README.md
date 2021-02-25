@@ -14,9 +14,10 @@ The mesh file contains 90,496 triangular elements with a length of ~1.5 km.
 1) Distribution of Non-dimension parameter a-b and effective normal stress
 2) Length of velocity-weakening in SSE source region (W)
 
-#### Spatio-temporal distribution of slip rate
+#### Distribution of slip rate
 
-Slip rate on the fault as shown in Figure 3a. 
+1) Slip rate on the fault as shown in Figure 3a. 
+2) Slip rate history at P1 and P2 in Figure 3c. 
 
 #### Slip distrinbution
 
